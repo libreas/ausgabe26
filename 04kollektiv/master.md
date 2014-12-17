@@ -145,9 +145,7 @@ herum. Wie es sich so ergibt, konnte einer mal nicht, ein anderer sprang
 ein und im Laufe der Zeit gab es nur mehr einen, der jeden Tag dort
 hinging und das Zentrum aufsperrte. Für die anderen 29 war das zwar eine
 Erleichterung. Jedoch die eine Person sah sich nun als Herr des
-Schlüssels und sperrte nur mehr auf, wenn er wollte,
-
-denn er war es schließlich, der jeden Tag aufsperrte. Für Abel Paz, so
+Schlüssels und sperrte nur mehr auf, wenn er wollte, denn er war es schließlich, der jeden Tag aufsperrte. Für Abel Paz, so
 hieß der Erzähler dieser Anekdote, entstehen so Spezialisierungen und
 diese seien der Anfang der Bürokratie und Hierarchie.
 
