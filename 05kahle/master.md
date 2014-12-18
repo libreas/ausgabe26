@@ -106,7 +106,7 @@ Ermöglichen von Bewusstseins- und Kommunikationsprozessen.
 
 ![Bildunterschrift: CC-BY-3.0,Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:B%C3%Bcchertauschb%C3%B6rse_Soltau.jpg>](img/BuchertauschborseSoltau.jpg)
 
-![Bildunterschrift: CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:B%C3%BCchertauschb%C3%B6rse_Soltau_II.jpg>](img/BuchertauschborseSoltauII.jpg)
+![Bildunterschrift: CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:B%C3%BCchertauschb%C3%B6rse_Soltau_II.JPG>](img/BuchertauschborseSoltauII.jpg)
 
 ![Bildunterschrift: CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:Lesebaum_Karlshagen.jpg>](img/LesebaumKarlshagen.jpg)
 

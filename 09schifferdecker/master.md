@@ -41,6 +41,8 @@ haben wir die Erfahrung gemacht, dass die TeilnehmerInnen anfangs recht
 schüchtern und deswegen dankbar sind, wenn eine Expertin bzw. ein
 Experte das Gespräch beginnt.
 
+![WeberWorldCafé 2014](wwc1.jpg)
+
 *LIBREAS*: Wie wählen Sie Experten für Ihr WeberWorldCafé (WWC) aus? Wer
 gilt dabei als Experte?
 
@@ -175,6 +177,8 @@ Format, das alle Beteiligten quasi zwingt, mitzudenken und sich
 einzubringen. Für die TischgastgeberInnen bedeutet das, „outside of the
 box“ zu denken, mit Menschen konfrontiert zu werden, die ihnen Fragen
 stellen, die sie von den FachkollegInnen nicht gefragt werden.
+
+![WeberWorldCafé 2014](wwc2.jpg)
 
 *LIBREAS*: Könnte das WeberWorldCafé die Funktion einer bisherigen
 Konferenz als Austauschformat in der Wissenschaftskommunikation
