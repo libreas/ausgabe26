@@ -1,6 +1,6 @@
 Es gibt ein Bibliothekssystem. Vielleicht auch mehrere
 Bibliothekssysteme? Daneben gibt es nachweislich weitere Einrichtungen,
-die sich als Bibliotheken verstehen aber nicht als Teil eines
+die sich als Bibliotheken verstehen, aber nicht als Teil eines
 Bibliothekssystems. Kann das sein? Was für Institutionen sind das? Wer
 steht hinter solchen Einrichtungen? Haben sie ein Recht, sich Bibliothek
 zu nennen oder okkupieren sie diesen Begriff? Muss er ihnen abgesprochen
@@ -24,7 +24,7 @@ gerade der Kern einer explizit anarchistischen Bibliothek? Ist es also
 leben? Haben wir das Recht dazu, den Text naiv zu nennen und
 umzuschreiben? Bestimmt nicht.
 
-Daher beließen wir ihn als Selbstdarstellung so gelassen, wie er jetzt
+Daher beließen wir ihn als Selbstdarstellung so, wie er jetzt
 publiziert ist. Aber diese Episode aus der Redaktionsarbeit zeigt sehr
 schön, worum es geht: Darum, Macherinnen und Machern solcher
 Bibliotheken außerhalb der offiziellen Bibliothekswesen zu befragen, was
@@ -62,12 +62,12 @@ vermittelt werden?
 Wie gesagt: Wo genau die Grenzen der Bibliothekswesen verlaufen, wer
 Diskussions- und Definitionsmacht hat, wird in dieser Ausgabe der
 LIBREAS nicht geklärt. Diese Diskussion bleibt also offen. Alternative
-Bibliotheken, die sich nicht einem fixen Formen offizieller
-Bibliotheksorganisation Rahmen herausbilden, zeigen nicht zuletzt, wo
+Bibliotheken, die sich nicht in einem fixen Formen offizieller
+Bibliotheksorganisation verpflichteten Rahmen herausbilden, zeigen nicht zuletzt, wo
 Bedarfe nicht von dem traditionellem Bibliothekswesen aufgefangen werden
 und vielleicht auch nicht aufgefangen werden können. Eine interessante
 Erweiterung der Perspektive ergibt sich aus der gern praktizierten
-Überführung öffentlicher Bibliotheken in ehrenamtliche Strukturen, die
+Überführung Öffentlicher Bibliotheken in ehrenamtliche Strukturen, die
 so auch für die dann ehemaligen Unterhaltsträger nicht mehr kontrolliert
 werden können. Es wäre interessant, nachzuforschen, in welchem Umfang
 sich bürgerschaftliche Bewegung an beiden Enden des politischen
@@ -94,7 +94,7 @@ Mit dieser Ausgabe haben wir auch das Design angepasst. Ziel ist es, das Lesen a
 Wie immer ist nach der Ausgabe vor der Ausgabe. Weitere werden folgen.
 Wer uns dabei unterstützen möchte, kann dies sehr gern mit
 substantiellen Beiträgen tun. Und natürlich möchten wir auch auf den
-LIBREAS-Verein zur Förderung der bibliotheks- und
+LIBREAS. Verein zur Förderung der bibliotheks- und
 informationswissenschaftlichen Kommunikation hinweisen. Eine
 Mitgliedschaft ist vergleichsweise günstig und hilft uns, Diskussion und
 Debatten auch über die Zeitschrift hinaus anzuregen, zu unterstützen und
