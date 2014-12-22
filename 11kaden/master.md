@@ -134,8 +134,3 @@ Capitalism. In: Artforum International. October 2014, S. 254-259
 *Überarbeitete Fassung eines Beitrags im LIBREAS-Tumblr:*
 
 <http://libreas.tumblr.com/post/99407407976/linguistic-capitalism>
-
-
----
-
-**Ben Kaden** ist Bibliotheksforscher (heise.de) aus Berlin.
