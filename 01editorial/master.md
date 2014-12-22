@@ -98,7 +98,7 @@ LIBREAS. Verein zur Förderung der bibliotheks- und
 informationswissenschaftlichen Kommunikation hinweisen. Eine
 Mitgliedschaft ist vergleichsweise günstig und hilft uns, Diskussion und
 Debatten auch über die Zeitschrift hinaus anzuregen, zu unterstützen und
-zu dokumentieren. Informationen zu Verein finden sich unter
+zu dokumentieren. Informationen zum Verein finden sich unter
 <http://www.libreas-verein.eu/>.
 
 Viel Spaß bei der Lektüre und, wenn gewünscht, Diskussionen,

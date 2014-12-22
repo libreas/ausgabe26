@@ -1,13 +1,12 @@
 *LIBREAS*: Liebe Gesche Schifferdecker,
-
 Sie sind Referentin für Öffentlichkeitsarbeit mit dem Schwerpunkt
 Online-Kommunikation bei der Max Weber Stiftung, betreuen redaktionell
 zahlreiche Wissenschaftsblogs und organisieren zudem die
 Veranstaltungsreihe "WeberWorldCafé".
 
-**Schwerpunkt Konzept und Ablauf**
+### Schwerpunkt Konzept und Ablauf
 
-Wie sind Sie mit diesem Veranstaltungsformat in Berührung gekommen? Und
+*LIBREAS*: Wie sind Sie mit diesem Veranstaltungsformat in Berührung gekommen? Und
 erschien es Ihnen gleich relevant für die Anwendung in der Max Weber
 Stiftung? Brauchte es besondere konzeptionelle Anpassungen?
 
@@ -158,7 +157,7 @@ sehr ähnlich. Damit hatten sich bis dahin weder die Tischgastgeber des
 Afrika-Tischs noch die Wissenschaftlerin, die über Australiens Rolle im
 Ersten Weltkrieg forscht, auseinandergesetzt.
 
-**Schwerpunkt Kreativität und Dialog**
+### Schwerpunkt Kreativität und Dialog
 
 *LIBREAS*: Wodurch kann die Kreativität, die, wie Sie in Ihrem Artikel in
 der MusErMeKu schreiben, unerwartete Perspektiven eröffnet und zu
@@ -194,7 +193,7 @@ TischgastgeberInnen an ihren Tischen bleiben und sich dementsprechend
 mit den anderen ExpertInnen während des Cafés nicht austauschen. Man
 kann die Formate deshalb nicht miteinander vergleichen.
 
-**Schwerpunkt Anwendung**
+### Schwerpunkt Anwendung 
 
 *LIBREAS*: Welchen Stellenwert hat das WeberWorldCafé bereits für den
 Diskurs innerhalb der Geschichtswissenschaft oder Geisteswissenschaften?
