@@ -14,7 +14,7 @@ Aufsatz (Kaplan, 2014) darüber und über die möglichen Auswirkungen
 algorithmenbasierter Sprachvermittlung und -gestaltung. Er plädiert für
 eine intensivere Auseinandersetzung mit solchen Veränderungsprozessen.
 Dabei verhandelt er zwei miteinander verwobene Phänomene. Das erste
-betrifft die digitale Verwandlung von Wörtern bzw. Wortketten in eine
+betrifft die digitale Verwandlung von Wörtern beziehungsweise Wortketten in eine
 Warenform, wie sie den Kern von Googles Geschäftsmodell in einer "global
 linguistic economy" darstellt. Eine klassische Bezeichnung dafür ist:
 Kommodifizierung. Der Preis für die neben (oder in) Suchergebnissen
@@ -35,7 +35,7 @@ Kommodifizierung von Sprache verfolgen, ein hohes Verständnis von
 Sprache und Sprachgebrauch zu entwickeln und am besten bei Bedarf auch
 steuernd eingreifen zu können. Das Verständnis entsteht bei Google
 traditionell hauptsächlich aus der statistischen Erfassung und Analyse
-von textuellem Handeln bzw. Verhalten und zwar in möglichst vielen
+von textuellem Handeln beziehungsweise Verhalten und zwar in möglichst vielen
 Zusammenhängen (=Kon-Texten) und von möglichst vielen Akteuren. Auf
 dieser Basis werden die linguistischen Beziehungen ermittelt, die nach
 ihrer Häufigkeit unter anderem bei der Autovervollständigung im
@@ -68,7 +68,7 @@ elementar semiotisch.
 In der Wirkung reicht er jedoch weit über den Bereich des Sprachlichen
 hinaus. Wenn Kaplan die Frage stellt, wie gerade in der Wechselwirkung
 von originär menschlichem Input (primary resources) und algorithmisch
-erzeugten bzw. modifizierten Texten (secondary resources) bestimmte
+erzeugten beziehungsweise modifizierten Texten (secondary resources) bestimmte
 Sprachverzerrungen und -veränderungen entstehen, betrachtet er freilich
 nur einen Ausschnitt aus der Bandbreite möglicher Konsequenzen.
 Möglicherweise sind nämlich die simplen adaptiven Verfahren der
@@ -108,7 +108,7 @@ verbunden die Reduzierung von Unsicherheit. Was in den 1980ern und
 vielleicht schon eher Idee und Ansatz war (man denke an die Konzepte des
 so genannten Wissensmanagements), ist heute sehr weitreichend technisch
 umsetzbar. Die digitale Kodifizierung ermöglicht so die Kommodifizierung
-von Sinneinheiten bzw. Informationsobjekten, die sich der Verwandlung in
+von Sinneinheiten beziehungsweise Informationsobjekten, die sich der Verwandlung in
 marktförmige Produkte zuvor entzogen. Grundlage dieser Ökonomie ist
 immer die Kombination aus eindeutiger Benennbar- und Lesbarkeit
 (legibility) des Bezugscodes und die statistische Erfassung von
@@ -134,3 +134,8 @@ Capitalism. In: Artforum International. October 2014, S. 254-259
 *Überarbeitete Fassung eines Beitrags im LIBREAS-Tumblr:*
 
 <http://libreas.tumblr.com/post/99407407976/linguistic-capitalism>
+
+
+---
+
+**Ben Kaden** ist Bibliotheksforscher (heise.de) aus Berlin.

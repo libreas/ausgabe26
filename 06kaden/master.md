@@ -21,7 +21,7 @@ einer kleinen europäischen Förderung ausgestattet, tourte das Team um
 die Fotografen Julie Hascoët und Guillaume Thiriet kreuz und quer über
 den Kontinent, von Lissabon über Belgrad und Berlin nach Oslo, Warschau,
 Nantes, Paris um jeweils für zwei bis drei Tage einen
-nicht-repräsentativen (das ist unmöglich), stattdessen aber sehr
+nicht-repräsentativen (etwas anderes war unmöglich), stattdessen aber sehr
 einzigartigen und dabei sehr umfänglichen und wachsenden (jede Station
 ergänzte die Kollektion um weitere lokale Zine-Stücke) Bestand an das
 interessierte Publikum zu vermitteln. Wie der Tour-Tumblr zeigt, dauert
@@ -35,7 +35,7 @@ Schenkungen aufbauend und dabei beziehungsweise dadurch auf
 Zufallsbegegnungen. Vollständigkeit wird nicht angestrebt und wäre auch
 nicht anstrebbar. Die Motivation für Zine-Produzenten etwas beizutragen
 ist selbstredend außerordentlich hoch: Eine größere Verbreitung und vor
-allem Wahrnehmung von Zines innerhalb ihrer peer group , in der
+allem Wahrnehmung von Zines innerhalb ihrer peer group, in der
 Einzelausgaben häufig gar nicht breitensichtbar werden, ist trotz aller
 digitalen Optionen nur mit solchen Projekten realisierbar.
 
@@ -96,7 +96,7 @@ gibt in der so genannten Generation Y, deren spätere Hälfte man im heute
 im Herbst 2014 vielleicht noch eher als postdigital bezeichnen würde,
 eine Reihe von Menschen, die gerade angesichts der Allgegenwart des
 Digitalen eine neue Sensibilität für das Materielle entwickeln,
-vielleicht auch eine Art Sehnsucht nach dem Realen, wo sich der Großteil
+vielleicht auch eine Art Sehnsucht nach dem Realen, gerade weil sich der Großteil
 auch des kreativen Handelns im Virtuellen vollzieht.
 
 Den Bezugspunkt bilden dabei vorrangig aber nicht ausschließlich Zines.

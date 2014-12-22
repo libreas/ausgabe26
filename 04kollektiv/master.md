@@ -120,7 +120,6 @@ Wie eingangs erwähnt, ist die Anarchistische Bibliothek ein Projekt, das
 von einigen wenigen Leuten aktiv betrieben wird. Dies betrifft sowohl
 den Webauftritt, die Digitalisierung von Zeitschriften und Broschüren,
 Organisation von Veranstaltungen, Katalogisierung des
-
 Bücherbestandes als auch den wöchentlichen Bibliotheksdienst. Das Plenum
 dient als grundsätzliches Entscheidungsgremium und findet regelmäßig
 statt. Dort werden die anstehenden Themen besprochen, die Aufgaben
@@ -139,15 +138,15 @@ Workshops) und so weiter.
 Ein berühmter spanischer Anarchist hat einmal in einem Vortrag in Wien
 eine Anekdote über das Entstehen von Hierarchien erzählt:
 
-Sie waren gut 30 Leute, hatten ein Kulturzentrum und sich vorgenommen,
+> Sie waren gut 30 Leute, hatten ein Kulturzentrum und sich vorgenommen,
 jede Person sperrt an einem Tag auf. Der Schlüssel für das Zentrum ging
 herum. Wie es sich so ergibt, konnte einer mal nicht, ein anderer sprang
 ein und im Laufe der Zeit gab es nur mehr einen, der jeden Tag dort
 hinging und das Zentrum aufsperrte. Für die anderen 29 war das zwar eine
 Erleichterung. Jedoch die eine Person sah sich nun als Herr des
-Schlüssels und sperrte nur mehr auf, wenn er wollte, denn er war es schließlich, der jeden Tag aufsperrte. Für Abel Paz, so
-hieß der Erzähler dieser Anekdote, entstehen so Spezialisierungen und
-diese seien der Anfang der Bürokratie und Hierarchie.
+Schlüssels und sperrte nur mehr auf, wenn er wollte, denn er war es schließlich, der jeden Tag aufsperrte. 
+
+Für Abel Paz, so hieß der Erzähler dieser Anekdote, entstehen so Spezialisierungen und diese seien der Anfang der Bürokratie und Hierarchie.
 
 Genau eine solche Entwicklung wollen wir mit unserer Form der
 Selbstorganisation vermeiden.

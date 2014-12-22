@@ -104,13 +104,13 @@ Ein Porträt ist hier kein mit den Mitteln der Malerei geschaffenes
 Kunstwerk statischer Referenz. Kunst besteht hier im Anbahnen und
 Ermöglichen von Bewusstseins- und Kommunikationsprozessen.
 
-![Bildunterschrift: CC-BY-3.0,Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:B%C3%Bcchertauschb%C3%B6rse_Soltau.jpg>](img/BuchertauschborseSoltau.jpg)
+![CC-BY-3.0,Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:B%C3%Bcchertauschb%C3%B6rse_Soltau.jpg>](img/BuchertauschborseSoltau.jpg)
 
-![Bildunterschrift: CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:B%C3%BCchertauschb%C3%B6rse_Soltau_II.JPG>](img/BuchertauschborseSoltauII.jpg)
+![CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:B%C3%BCchertauschb%C3%B6rse_Soltau_II.JPG>](img/BuchertauschborseSoltauII.jpg)
 
-![Bildunterschrift: CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:Lesebaum_Karlshagen.jpg>](img/LesebaumKarlshagen.jpg)
+![CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:Lesebaum_Karlshagen.jpg>](img/LesebaumKarlshagen.jpg)
 
-![Bildunterschrift: CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:Buchtauschzelle_Karlshagen.jpg>](img/BuchtauschzelleKarlshagen.jpg)
+![CC-BY-3.0, Urheber: ChristianSW, <https://commons.wikimedia.org/wiki/File:Buchtauschzelle_Karlshagen.jpg>](img/BuchtauschzelleKarlshagen.jpg)
 
 ### Variationen und Weiterentwicklungen
 
