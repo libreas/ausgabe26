@@ -96,8 +96,8 @@ Kolonialverwaltung ab 1884. Teile dieser sogenannten
 Gouvernements-Bibliothek haben sich bis heute in Buea und Jaunde[^5]
 erhalten. Dieser wahrscheinlich ersten "europäischen" Bibliothek sollten
 noch weitere folgen. Sie befinden sich hauptsächlich in Schulen und
-Hochschulen, in Behörden, in privat organisierten Kulturzentren sowie –-
-recht vereinzelt anzutreffen –- in kommunalen Einrichtungen. Ihre Zahl
+Hochschulen, in Behörden, in privat organisierten Kulturzentren sowie -
+recht vereinzelt anzutreffen - in kommunalen Einrichtungen. Ihre Zahl
 ist kaum bekannt. Noch weniger bekannt sind belegbare Daten zur Größe
 der Bestände, zur Art der Bestandserneuerung sowie zur Zahl der
 Besucher. Das Fehlen dieser Zahlen macht es notwendig, sich auf anderen
@@ -107,7 +107,7 @@ Autor hat seit etwa zehn Jahren die Möglichkeit, diese Methoden zu
 nutzen. Indes ist es auch nach so langer Zeit noch schwierig, sich ein
 abschließendes Urteil über das Bibliothekswesen in Kamerun zu erlauben.
 
-Wodurch sind also Bibliotheken in Kamerun bzw. das kamerunische
+Wodurch sind also Bibliotheken in Kamerun beziehungsweise das kamerunische
 Bibliothekswesen gekennzeichnet? Nachfolgend der Versuch einer
 Charakterisierung:
 
@@ -159,7 +159,7 @@ verstörend wirken.
 ### Probleme?
 
 Zu den Unterschieden gehören zum Beispiel das fast vollständige Fehlen
-von Bibliotheksentwicklungsplänen bzw. die ausbleibende Umsetzung dieser
+von Bibliotheksentwicklungsplänen beziehungsweise die ausbleibende Umsetzung dieser
 Pläne. Ein planmäßiger Bestandsaufbau findet nur selten statt. Es
 dominiert die eher zufällige Bestandserweiterung auf der Grundlage von
 Schenkungen. Bei den Schenkungen wiederum handelt es sich nicht selten
@@ -174,8 +174,8 @@ feststellen. Viele Räumlichkeiten wirken wenig einladend auf die
 Besucher. Und obgleich die in Kamerun häufig anzutreffende Mischung aus
 Staub und hoher Luftfeuchtigkeit viel zu diesem Eindruck mit beiträgt,
 liegen die Ursachen hierfür woanders. Budgets für regelmäßige
-Bibliotheksreinigung und neues Mobiliar sind selten vorgesehen bzw.
-werden –- den verschiedenen Gesprächspartnern zufolge –- regelmäßig von
+Bibliotheksreinigung und neues Mobiliar sind selten vorgesehen beziehungsweise
+werden - den verschiedenen Gesprächspartnern zufolge - regelmäßig von
 Mitgliedern der vorgesetzten Ebene zweckentfremdet.
 
 Des Weiteren wird der im Alltag häufig anzutreffende autoritäre
@@ -207,7 +207,7 @@ bibliothekarischen Berufe. In vielen Schulen, aber nicht nur dort, wird
 mancher leistungsschwache Mitarbeiter "zur Erholung" in die Bibliothek
 versetzt. Generell genügen die Gehälter der Mitarbeiter oftmals nicht,
 um sich und der Familie ein bescheidenes Leben zu sichern. Die Folgen
-davon sind häufige Abwesenheiten zwecks Nebenerwerb bzw. wegen
+davon sind häufige Abwesenheiten zwecks Nebenerwerb beziehungsweise wegen
 mangelnder Motivation. Hat man zudem das "Glück" als Beamter angestellt
 zu werden, braucht es in der Regel zwei bis drei Jahre, bis das erste
 Gehalt ausgezahlt wird. Einen Teil dieser unfreiwilligen Wartezeit
@@ -272,8 +272,8 @@ Rahmen des IFLA-BSLA-Programms[^12] reanimiert wurde.
 ### Ein Erklärungsversuch
 
 Es wäre langweilig und wenig nutzbringend, sich weiter bei der
-Aufzählung von Problemen aufzuhalten, die –- jedes für sich allein
-genommen –- sicherlich auch in anderen Ländern festgestellt werden
+Aufzählung von Problemen aufzuhalten, die - jedes für sich allein
+genommen - sicherlich auch in anderen Ländern festgestellt werden
 können.[^13] Generell ersichtlich wird allerdings ein systematisches
 Abweichen vom Normalen, wobei die nicht erfüllten Normen außerhalb des
 Landes definiert werden. Betrachtet man folglich das Bibliothekswesen in
@@ -288,7 +288,7 @@ offensichtlich befolgen viele Akteure im kamerunischen Bibliothekswesen
 gänzlich andere Normen, wobei sie daran durch ihre jeweils Aufsicht
 führenden Einrichtungen kaum behindert werden.
 
-Konkret führt dies zu der These, wonach das aus Europa bzw. Nordamerika
+Konkret führt dies zu der These, wonach das aus Europa beziehungsweise Nordamerika
 eingeführte Konzept der Bibliothek in Kamerun vielerorts abgeändert und
 den Bedürfnissen von einigen der beteiligten Stakeholder angepasst
 wurde. Diese Umwandlung erfolgte an einigen Orten so erfolgreich, dass
@@ -341,11 +341,11 @@ vermag.
 
 Um es noch einmal klar zum Ausdruck zu bringen: Die meisten Bibliotheken
 in Kamerun basieren auf der Übernahme eines scheinbar universellen – in
-Wirklichkeit jedoch hauptsächlich im neuzeitlichen Europa bzw.
+Wirklichkeit jedoch hauptsächlich im neuzeitlichen Europa beziehungsweise
 Nordamerika generierten – Konzepts von Bibliothek. Dieses Konzept wurde
 und wird von einzelnen Stakeholdern aktiv und kreativ den eigenen
 Bedürfnissen angepasst und zwar so, dass zentrale Funktionen des
-ursprünglichen Konzepts an Bedeutung verlieren bzw. ganz aufgegeben
+ursprünglichen Konzepts an Bedeutung verlieren beziehungsweise ganz aufgegeben
 werden.
 
 Radikal betrachtet unterscheidet sich dieses Verhalten nur wenig vom
@@ -406,7 +406,7 @@ werden:
 
 3.  Die Entwicklung eines lokal angepassten Konzepts mit unbedingter und
     maßgeblicher Beteiligung der betroffenen Akteure sollte aufmerksam
-    beobachtet und gegebenenfalls auch gefördert bzw. unterstützt
+    beobachtet und gegebenenfalls auch gefördert beziehungsweise unterstützt
     werden. Dabei kommt der Förderung des fachlichen Dialogs auf
     nationaler und internationaler Ebene eine besondere Bedeutung zu.
     Der Dialog bietet gute Voraussetzungen für gangbare Lösungen unter
@@ -431,7 +431,7 @@ werden:
     von mehr Abstand ein denkbarer Weg zur Entwicklung von
     selbstständigen und tragfähigen lokal entwickelten Konzepten.
     *Abstand* bedeutet in diesem Sinne zum einen den freiwilligen
-    Verzicht auf latente bzw. manifeste Einmischung der stärkeren Seite
+    Verzicht auf latente beziehungsweise manifeste Einmischung der stärkeren Seite
     in Bezug auf die sich anbietenden Problemlösungsoptionen. *Abstand*
     bedeutet aber auch, dass die scheinbar schwächere Seite sich die
     Möglichkeit offen hält, eigene Problemlösungsstrategien zu
@@ -501,7 +501,7 @@ dies zu wünschen.
     nicht gebräuchlich.
 
 [^6]: Es soll nicht unerwähnt bleiben, dass es bereits vor 1884 im
-    Norden des heutigen Kameruns Palastbibliotheken bzw. schriftliche
+    Norden des heutigen Kameruns Palastbibliotheken beziehungsweise schriftliche
     Chroniken gab. Siehe auch: Hunwick, John O., und Rex Séan O’Fahey:
     *Arabic Literature of Africa: The Writings of Central Sudanic Africa
     Vol.2. Volume 13*. BRILL, 1995.
@@ -510,7 +510,7 @@ dies zu wünschen.
     Gesprächen mit Mitarbeitern der genannten Einrichtungen sowie
     Besuchen vor Ort.
 
-[^8]: "Die Kinder da stören bzw. nerven!"
+[^8]: "Die Kinder da stören beziehungsweise nerven!"
 
 [^9]: Hoffmann, Florian: *Okkupation und Militärverwaltung in Kamerun:
     Etablierung und Institutionalisierung des kolonialen Gewaltmonopols
