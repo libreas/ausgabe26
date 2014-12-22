@@ -13,7 +13,7 @@ libraries happen to be used as part of the revitalization attempts of
 urban spaces as well. This is what happens in Lausanne, Switzerland and
 this text will use Lausannes situation – both the neighborhood of the
 Flon and the Place de la Riponne – as case study for this phenomenon.
-But: the dealt issues you can find in this text are not limited to
+But: the dealt issues one can find in this text are not limited to
 Lausanne. Big cities in Europe and the Global North keep growing, almost
 all of them have strategies to govern these growth processes. In an
 increasing number of cities those changes lead to social conflicts,
@@ -56,9 +56,9 @@ the gentrified area. But it is more than that. Gentrification also
 describes the change of the culture, the social structure, and the
 lifestyle in one neighborhood, usually marked by the closure of the
 infrastructure used by poor people for their everyday life – like cheap
-supermarkets or stores, basic pubs and so on – a rise of the number of
+supermarkets or stores, basic pubs and so on –  and a rise of the number of
 cafés, restaurants, shops and infrastructure for a better paying
-clientele and at the same time. This is not just a question of prices,
+clientele at the same time. This is not just a question of prices,
 it is also a question of different cultures, whereas the new bars and
 shops usually seem to be oriented towards a clientele that is more
 interested in culture, health and alternative lifestyles.
@@ -82,7 +82,7 @@ by the cities itself, but also by organizations commissioned by the
 cities too – like the "Quartiersmangement" in Berlin or the
 "Stadterneuerungs- und Stadtentwicklungsgesellschaft Hamburg" (Naegler
 2012) – or private investors. Lees, Slater and Wyly (Lees, Slater & Wyly
-2008) pointing out that cities and investors usually avoid the term
+2008) point out that cities and investors usually avoid the term
 gentrification by choice, even outright disputing the legacy of the
 term. They understand gentrification – or, in their words, "urban
 development" – as a favorable process, providing much more positive than
@@ -231,7 +231,7 @@ they try to stimulate urban revitalization with the help of creative
 endeavors. Art galleries and little theaters are funded, sometimes only
 on a short term basis, festivals of different forms are invited or
 invented, special regulations for pubs, like longer opening hours or the
-relaxation through the enforcement of regulations, are put in place,
+relaxation of the enforcement of regulations, are put in place,
 museums are opened, and even libraries are included into the strategies
 for urban redevelopment.
 
@@ -294,10 +294,10 @@ to the third phase.
 Until the 1950s, the Flon was a port on the way to the nearby Lac Léman,
 used primarily for industrial goods. Most of the industry situated in
 the Flon left the area in course of the years. This was consistent with
-movements you could also observe in other European cities, were the
+movements one could also observe in other European cities, were the
 actual industrial production got sourced out. As in other cities too,
-this left a brownfield of slowly deteriorating buildings. Every city had
-to deal with its brownfield. Some, most renowned Detroit (2012), left
+this left brownfields of slowly deteriorating buildings. Every city had
+to deal with its brownfields. Some, most renowned Detroit (2012), left
 most of this area open in case the city is able to change their current
 course of urban development. Other cities like Marseille tried to
 reanimate their usable area by installing cultural institutions (Andres
@@ -324,7 +324,7 @@ APAHF preferred a development of the city they called "l’urbanisme du
 rêve" (urbanism of dreams or utopian urbanism), which aimed to include
 interests and participation of different groups and had the vision of a
 more lively city. (Zuppinger 2012[^5]) In 1986, APAHF won a popular vote
-against this plan which is common in Switzerland on such vast projects.
+against this plan. Such popular votes are common in Switzerland on such vast projects.
 The city had zoned the Flon as "industrial site", which meant, that
 other ways of utilization like flats or commercial projects were not
 possible as long term alternatives. This situation left the real estate
@@ -339,7 +339,7 @@ owners, above all galleries, second hand shops and bookshops. (Andres &
 Grésillon 2013) In other words: the Flon moved into the second phase of
 gentrification, although tenants were only slightly affected, as there
 were only a small number of flats on this site too. This development was
-only possible because of Flons the vague status then, leading to an open
+only possible because of the Flons vague status then, leading to an open
 attitude by the real estate, which gave out short-term rent, and the
 city which didn’t impose another development plan of the Flon.
 
@@ -472,7 +472,7 @@ the Southern end of the place, one of the meeting points of the drug
 users. Then, in the context of the cultural intervention project
 "Lausanne Jardin 2014", flower checks at free disposal were installed at
 the Riponne as well as other places in the city which should have been
-watched by the marginals (De Paola 2014). An ephemeral restaurant/bar,
+watched after by the marginals (De Paola 2014). An ephemeral restaurant/bar,
 the "Café Grenette", was installed at the Northern end of the place,
 which offered, besides open and free sitting opportunities, cultural
 activities, such as concerts, lectures and activities for children. The
@@ -521,7 +521,7 @@ before.[^7]
 As always, these processes of gentrification lead to the question, for
 whom the space is reanimated. For everybody? For the city? For "the
 right folks"? Or for the former users? For future inhabitants? The open
-drug scene at the Riponne is the only most visible group of users and
+drug scene at the Riponne is only the most visible group of users and
 actual tenants which now live in a new in-place with rising rents and a
 new everyday culture. Is this good for them?
 
@@ -548,8 +548,8 @@ businesses and the people who are attracted by those businesses, which
 is not the whole population of the city.
 
 Secondly, in the case of the Place de la Riponne, the temporary Café
-Grenette includes a branch of the city's public libraries. This small
-branch is tailored to children and their parents. The collection
+Grenette included a branch of the city's public libraries. This small
+branch was tailored to children and their parents. The collection
 contained mainly printed materials for children (picture books, first
 reader material, comics etc.). Although the library itself didn’t
 announce anything on the concept and program of this specific branch, it
