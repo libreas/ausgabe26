@@ -335,7 +335,7 @@ vermag.
 
 ![Eine Straßenbibliothek in Jaunde. Die sogenannten "Librairies de Poteau" sind am ehesten noch mit Leihbibliotheken vergleichbar. Leser treten hier sowohl als Käufer als auch Verkäufer auf. Von der Differenz lebt der Händler. Bildquelle: Foto des Autors.](img/LibrairiePoteau1.jpg)
 
-![Bildunterschrift: Eine weitere Straßenbibliothek in Jaunde. In diesem Fall sollte eine private Sammlung deutscher Titel auf der dem Goethe-Institut gegenüber liegenden Straßenseite zum Verkauf gebracht werden. Bildquelle: Foto des Autors.](img/LibrairiePoteau2.jpg)
+![Eine weitere Straßenbibliothek in Jaunde. In diesem Fall sollte eine private Sammlung deutscher Titel auf der dem Goethe-Institut gegenüber liegenden Straßenseite zum Verkauf gebracht werden. Bildquelle: Foto des Autors.](img/LibrairiePoteau2.jpg)
 
 ![Eine verhinderte Baustelle. Im sogenannten Bundesliga-Stadium, einem der besseren Bolzplätze in Jaunde, sollte Anfang 2013 die Erweiterung einer benachbarten staatlichen Grundschule gebaut werden. Die Anwohner wehrten sich, indem sie die tagsüber angelegten Gräben nachts wieder zuschütteten. Die Auseinandersetzung entbehrt nicht einer gewissen Symbolik. Bildquelle: Foto des Autors.](img/bundesliga.jpg)
 
